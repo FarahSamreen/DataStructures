@@ -14,5 +14,3 @@ int main()
     printf("%d",fib(n));
     return 0;
 }
-Footer
-© 2023 GitH
